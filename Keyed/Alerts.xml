@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
+	<ClickToJumpToProblem>Click t' jump t' problem</ClickToJumpToProblem>
 
   
   
   <NeedSawmill>Need sawmill</NeedSawmill>
-  <NeedSawmillDesc>You need some kind of sawmill to chop logs into more versatile wood planks.\n\nBuild a HAND SAWMILL or an ELECTRIC SAWMILL.</NeedSawmillDesc>
+  <NeedSawmillDesc>Ye need some kind o' sawmill t' chop logs into more versatile wood planks.\n\nBuild a HAND SAWMILL or an ELECTRIC SAWMILL.</NeedSawmillDesc>
 
   <PoorMood>Poor mood</PoorMood>
-  <PoorMoodDesc>These colonists are in a poor mood and may have a soft mental break at any time:\n\n{0}\nCheck these colonists' Thoughts tab to see what's bothering them.</PoorMoodDesc>
+  <PoorMoodDesc>These colonists be in a poor mood and may have a soft mental break at any time:\n\n{0}\nCheck these colonists' Thoughts tab t' see what's botherin' them.</PoorMoodDesc>
 
   <TerribleMood>Terrible mood</TerribleMood>
-  <TerribleMoodDesc>These colonists are critically stressed and may have a hard - and potentially violent - mental break at any moment:\n\n{0}\nCheck these colonists' Thoughts tab to see what's bothering them</TerribleMoodDesc>
+  <TerribleMoodDesc>These colonists be critically stressed and may have a hard - and potentially violent - mental break at any moment:\n\n{0}\nCheck these colonists' Thoughts tab to see what's bothering them</TerribleMoodDesc>
 
   <ColonistNeedsRescue>Colonist needs rescue</ColonistNeedsRescue>
   <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>  These colonists be incapacitated on th' ground:\n\n{0}\nSend another colonist t' rescue them and carry them aft t' bed.\n\n(To rescue, select another colonist, then right click on th' victim 'n select Rescue.</ColonistsNeedRescueDesc>
 
   <BuildARoom>Build a room</BuildARoom>
-  <BuildARoomDesc>A room is composed of separate wall pieces with a door.\n\nUse the ARCHITECT menu at the bottom left of the screen to designate where you want things built. Once you designate something to be built, your colonists will do the work when they can.</BuildARoomDesc>
+  <BuildARoomDesc>A room be composed 'o separate wall pieces wit' a door.\n\nUse t' ARCHITECT menu at t' bottom port o' t' screen t' designate where you want thin's built. Once you designate somethin' t' be built, your colonists will do t' work when they can.</BuildARoomDesc>
 
   <NeedDefenses>Need defenses</NeedDefenses>
   <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses.\n\nBuild some turrets.</NeedDefensesDesc>

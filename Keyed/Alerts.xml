@@ -22,38 +22,38 @@
   <BuildARoomDesc>A room be composed 'o separate wall pieces wit' a door.\n\nUse t' ARCHITECT menu at t' bottom port o' t' screen t' designate where you want thin's built. Once you designate somethin' t' be built, your colonists will do t' work when they can.</BuildARoomDesc>
 
   <NeedDefenses>Need defenses</NeedDefenses>
-  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses.\n\nBuild some turrets.</NeedDefensesDesc>
+  <NeedDefensesDesc>Ye've be here some time 'n have probably been seen. Scurvy pirate raids gunna start soon.\n\nYe should prepare defenses.\n\nBuild some turrets.</NeedDefensesDesc>
 
   <NeedDoctor>Need doctor</NeedDoctor>
-  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+  <NeedDoctorDesc>These colonists need medical care, but ye have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to th' Doctor work type. If left untreated, wounds may never heal properly 'n may become permanent.</NeedDoctorDesc>
 
   <NeedMiner>Need miner</NeedMiner>
   <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
 
   <NeedWarden>Need warden</NeedWarden>
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWardenDesc>Ye have a prisoner, but no colonist has th' Warden work type.\n\nAssign a colonist th' Warden work type.</NeedWardenDesc>
 
   <LowFood>Low food</LowFood>
-  <LowFoodDesc>You only have {0} nutrition worth of food in storage. This is dangerously low.\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFoodDesc>Ye only have {0} nutrition worth 'o food in storage. 'tis be dangerously low.\n\nGrow, buy, find, or murder some food.</LowFoodDesc>
 
   <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Ye have more colonists than ye have colonist beds. Someone gunna lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf ye have no resources, sleepin' spots be free 'n can be placed instantly.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Hunter lacks weapon</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but has no weapon. They will not hunt until they are carrying a weapon.\n\nTo reduce injury, we recommend giving them a ranged weapon.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>A colonist be assigned as a hunter but has no weapon. They will not hunt 'til they be carryin' a weapon.\n\nTo reduce injury, we recommend givin' them a ranged weapon.</HunterLacksWeaponDesc>
 
   <Starvation>Starvation</Starvation>
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food. You'll need a food source like a nutrient paste dispenser and some food to feed it. Also, make sure they're not drafted.</StarvationDesc>
+  <StarvationDesc>These colonists be starvin':\n\n{0}\nGet them some food. ye'll need a food source like a nutrient paste dispenser 'n some food to feed it. Also, make sure they're not drafted.</StarvationDesc>
 
   <Exhaustion>Exhaustion</Exhaustion>
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <ExhaustionDesc>These colonists be exhausted 'n need rest:\n\n{0}\nGet them some rest. They'll need a bed marked fer colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
 
   <NeedFoodHopper>Need food hopper</NeedFoodHopper>
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Ye have a nutrient dispenser wit' no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled wit' raw food.\n\nBuild a hopper adjacent to th' dispenser.</NeedFoodHopperDesc>
 
-  <BuildingNeedsPower>Building needs power</BuildingNeedsPower>
-  <BuildingsNeedPower>Buildings need power</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>These power-using buildings are totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
+  <BuildingNeedsPower>Buildin' needs power</BuildingNeedsPower>
+  <BuildingsNeedPower>Building's need power</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>These power-usin' buildin's be totally disconnected from all possible power sources:\n\n{0}\nConnect them to a power generator or battery.</BuildingsNeedPowerDesc>
   <AndMore>and more</AndMore>
 
   <NeedMealSource>Need meal source</NeedMealSource>

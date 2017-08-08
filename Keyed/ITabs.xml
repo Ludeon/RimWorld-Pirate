@@ -91,3 +91,44 @@
 
 
 </LanguageData>
+<SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+<FactionLeader>Faction leader</FactionLeader>
+<TabNeeds>Needs</TabNeeds>
+<CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
+<Kidnapped>Kidnapped</Kidnapped>
+<ArmorBlunt>Blunt</ArmorBlunt>
+<Affects>Affects</Affects>
+<HungerRate>Hunger rate</HungerRate>
+<TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+<MinimumSkill>Min skill</MinimumSkill>
+<IAmPsychopath>I'm a psychopath</IAmPsychopath>
+<Slave>Slave</Slave>
+<Tiredness>Tiredness</Tiredness>
+<Missing>Missing</Missing>
+<WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
+<IAmDead>I'm dead</IAmDead>
+<SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
+<AverageArmor>Average armor</AverageArmor>
+<NoRelationships>(no relationships)</NoRelationships>
+<TabRecords>Records</TabRecords>
+<RemoveOrgan>Remove</RemoveOrgan>
+<TabTraining>Training</TabTraining>
+<ArmorHeat>Heat</ArmorHeat>
+<ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+<PreventsInfection>Prevents infection</PreventsInfection>
+<PainFactor>Pain</PainFactor>
+<ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
+<PartEfficiency>Part efficiency</PartEfficiency>
+<CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+<TabSocial>Social</TabSocial>
+<SocialInteractionsLower>social interactions</SocialInteractionsLower>
+<TimeToDeath>death in {0}</TimeToDeath>
+<PrisonerAttemptRecruit>Chat and recruit</PrisonerAttemptRecruit>
+<MemoryLower>memory</MemoryLower>
+<OpinionOf>Opinion of {0}</OpinionOf>
+<BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+<MassCarried>Mass carried: {0} / {1} kg</MassCarried>
+<ArmorSharp>Sharp</ArmorSharp>
+<TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
+<SelfTend>Self-tend</SelfTend>
+<ArmorElectric>Electric</ArmorElectric>

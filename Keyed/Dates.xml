@@ -39,3 +39,6 @@
     
     
 </LanguageData>
+<WholeYear>Whole year</WholeYear>
+<DateReadout>{0} of {1}, {2}</DateReadout>
+<SeasonFullDate>{0} of {1}</SeasonFullDate>

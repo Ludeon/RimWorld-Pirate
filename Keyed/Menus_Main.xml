@@ -141,3 +141,74 @@
   <GeneratingMap>Generating map...</GeneratingMap>
 
 </LanguageData>
+<OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+<YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
+<ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+<PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+<UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+<ChooseScenario>Choose scenario</ChooseScenario>
+<Health>Health</Health>
+<DragToReorder>Drag to reorder</DragToReorder>
+<TooMany>Too many (max {0}): </TooMany>
+<Seed>seed</Seed>
+<ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+<ModTargetVersion>For version: {0}</ModTargetVersion>
+<PlanetRainfall_High>High</PlanetRainfall_High>
+<ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+<Relations>Relations</Relations>
+<MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+<TimeZone>Time zone</TimeZone>
+<GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+<ReviewScenario>Review scenario</ReviewScenario>
+<GetModsFromForum>Get mods from forum</GetModsFromForum>
+<WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+<PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+<ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+<WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+<FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
+<River>River</River>
+<AvgSummerTemp>Summer temperature</AvgSummerTemp>
+<Summary>Summary</Summary>
+<BuySoundtrack>Buy soundtrack</BuySoundtrack>
+<SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
+<PlanetTemperature_High>High</PlanetTemperature_High>
+<Road>Road</Road>
+<AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
+<ScenarioEditor>Scenario editor</ScenarioEditor>
+<Downloading>Downloading</Downloading>
+<MovementTimeNow>Current movement time</MovementTimeNow>
+<AvgWinterTemp>Winter temperature</AvgWinterTemp>
+<CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+<MovementTimeWinter>Winter movement time</MovementTimeWinter>
+<PlanetTemperature_Low>Low</PlanetTemperature_Low>
+<CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
+<PlanetCoverage>Globe coverage</PlanetCoverage>
+<LoadGame>Load game</LoadGame>
+<ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+<WorldFactionsTab>Factions</WorldFactionsTab>
+<TileOccupied>This tile is occupied.</TileOccupied>
+<AddPart>Add part</AddPart>
+<GeneratingPlanet>Generating planet</GeneratingPlanet>
+<Ignore>Ignore</Ignore>
+<PlanetTemperature>Overall temperature</PlanetTemperature>
+<Tutorial>Tutorial</Tutorial>
+<MovementTimeSummer>Summer movement time</MovementTimeSummer>
+<PlanetRainfall_Low>Low</PlanetRainfall_Low>
+<Delete>Delete</Delete>
+<WorkshopPage>Workshop page</WorkshopPage>
+<UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+<Unsubscribe>Unsubscribe</Unsubscribe>
+<MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
+<ScenariosCustom>Custom</ScenariosCustom>
+<ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+<TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+<UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+<EditMode>edit mode</EditMode>
+<SelectRandomSite>Select random site</SelectRandomSite>
+<PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+<SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
+<Difficulty>Difficulty</Difficulty>
+<Incompatible>Incompatible</Incompatible>
+<PlanetRainfall>Overall rainfall</PlanetRainfall>
+<Source>Source</Source>
+<Quit>Quit</Quit>

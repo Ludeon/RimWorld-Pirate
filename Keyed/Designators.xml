@@ -94,3 +94,40 @@
 
 
 </LanguageData>
+<DesignatorUninstallDesc>Uninstall this so it can be moved, sold, or installed somewhere else.</DesignatorUninstallDesc>
+<DesignatorAreaSnowClearClearDesc>Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow.</DesignatorAreaSnowClearClearDesc>
+<DesignatorAreaSnowClearExpand>Expand snow clear area</DesignatorAreaSnowClearExpand>
+<DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
+<DesignatorClearAreaAllowed>Clear allowed area</DesignatorClearAreaAllowed>
+<DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
+<DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
+<DesignatorAreaHomeClearDesc>Removes a home area. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorAreaHomeClearDesc>
+<DesignatorRemoveFloor>Remove floor</DesignatorRemoveFloor>
+<DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
+<DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
+<DesignatorAreaHomeClear>Clear home area</DesignatorAreaHomeClear>
+<DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
+<DesignatorAreaNoRoofExpand>Expand no roof area</DesignatorAreaNoRoofExpand>
+<DesignatorSlaughter>Slaughter</DesignatorSlaughter>
+<DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
+<DesignatorTame>Tame</DesignatorTame>
+<SpaceBeingSmoothed>Space being smoothed.</SpaceBeingSmoothed>
+<DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+<DesignatorAreaNoRoofClearDesc>Removes no-roof area, so colonists will no longer remove roofs.</DesignatorAreaNoRoofClearDesc>
+<DesignatorAreaHomeExpand>Expand home area</DesignatorAreaHomeExpand>
+<DesignatorAreaNoRoofExpandDesc>Colonists will remove roofs in this area (except overhead mountain, which cannot be removed).</DesignatorAreaNoRoofExpandDesc>
+<DesignatorAreaHomeExpandDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home area.</DesignatorAreaHomeExpandDesc>
+<DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
+<DesignatorUninstall>Uninstall</DesignatorUninstall>
+<DesignatorAreaNoRoofClear>Clear no roof area</DesignatorAreaNoRoofClear>
+<DesignatorExpandAreaAllowed>Expand allowed area</DesignatorExpandAreaAllowed>
+<DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
+<DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
+<ManageAreas>Manage areas...</ManageAreas>
+<DesignatorOpen>Open</DesignatorOpen>
+<DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
+<DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
+<DesignatorStrip>Strip</DesignatorStrip>
+<TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
+<DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
+<DesignatorAreaSnowClearClear>Clear snow clear Area</DesignatorAreaSnowClearClear>

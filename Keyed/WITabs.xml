@@ -1,0 +1,24 @@
+
+<DragToRearrange>Drag to rearrange.</DragToRearrange>
+<CaravanColonists>Colonists</CaravanColonists>
+<AbandonItemTipExtraText>Abandoned items vanish and can never be recovered.</AbandonItemTipExtraText>
+<PlanetCoverageShort>Coverage</PlanetCoverageShort>
+<CaravanItems>Inventory</CaravanItems>
+<CaravanPrisonersAndAnimals>Prisoners and animals</CaravanPrisonersAndAnimals>
+<TabCaravanHealth>Health</TabCaravanHealth>
+<TabCaravanItems>Items</TabCaravanItems>
+<AbandonTip>Abandon</AbandonTip>
+<TabCaravanSocial>Social</TabCaravanSocial>
+<ConfirmAbandonItemDialog>Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
+<AbandonSpecificCountTip>Abandon specific count</AbandonSpecificCountTip>
+<AbandonTipWillDie>{0} will most likely die.</AbandonTipWillDie>
+<CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
+<AbandonSliderText>Abandon {{0}}x {0}</AbandonSliderText>
+<TabCaravanGear>Gear</TabCaravanGear>
+<TabCaravanNeeds>Needs</TabCaravanNeeds>
+<PlanetSeed>Seed</PlanetSeed>
+<AbandonAllTip>Abandon (all)</AbandonAllTip>
+<OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
+<CaravanPrisoners>Prisoners</CaravanPrisoners>
+<TabTerrain>Terrain</TabTerrain>
+<TabPlanet>Planet</TabPlanet>

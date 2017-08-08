@@ -70,3 +70,76 @@
 
 
 </LanguageData>
+<PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
+<StoragePriorityCritical>critical</StoragePriorityCritical>
+<HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
+<EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+<TrainableIntelligence_Advanced>advanced</TrainableIntelligence_Advanced>
+<FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
+<HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
+<StoragePriorityUnstored>unstored</StoragePriorityUnstored>
+<FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
+<TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
+<WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
+<TechLevel_Ultra>ultra</TechLevel_Ultra>
+<StoragePriorityNormal>normal</StoragePriorityNormal>
+<ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
+<StoragePriorityPreferred>preferred</StoragePriorityPreferred>
+<AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
+<HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+<EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+<TrainableIntelligence_None>none</TrainableIntelligence_None>
+<FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
+<MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
+<FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
+<TrainableIntelligence_Simple>simple</TrainableIntelligence_Simple>
+<HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
+<Celsius>Celsius</Celsius>
+<Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+<TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
+<TechLevel_Industrial>industrial</TechLevel_Industrial>
+<EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+<StoragePriorityLow>low</StoragePriorityLow>
+<FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
+<Hilliness_LargeHills>large hills</Hilliness_LargeHills>
+<MedicalCareCategory_HerbalOrWorse>Herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
+<FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
+<FoodTypeFlags_Liquor>liquor</FoodTypeFlags_Liquor>
+<ShowAnimalNames>Show animal names</ShowAnimalNames>
+<FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
+<Direction8Way_South_Short>S</Direction8Way_South_Short>
+<HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
+<TrainableIntelligence_Intermediate>intermediate</TrainableIntelligence_Intermediate>
+<Fahrenheit>Fahrenheit</Fahrenheit>
+<PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+<Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
+<MedicalCareCategory_NormalOrWorse>Normal medicine or worse</MedicalCareCategory_NormalOrWorse>
+<WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
+<Hilliness_Impassable>impassable</Hilliness_Impassable>
+<Direction8Way_West_Short>W</Direction8Way_West_Short>
+<TechLevel_Medieval>medieval</TechLevel_Medieval>
+<Direction8Way_North_Short>N</Direction8Way_North_Short>
+<EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+<FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
+<AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+<TechLevel_Animal>animal</TechLevel_Animal>
+<HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
+<PawnGenerationContext_All>all characters</PawnGenerationContext_All>
+<Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
+<MedicalCareCategory_Best>Best quality medical care</MedicalCareCategory_Best>
+<FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
+<FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
+<Direction8Way_East_Short>E</Direction8Way_East_Short>
+<TechLevel_Spacer>spacer</TechLevel_Spacer>
+<Hilliness_SmallHills>small hills</Hilliness_SmallHills>
+<Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
+<Hilliness_Mountainous>mountainous</Hilliness_Mountainous>
+<PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
+<Hilliness_Flat>flat</Hilliness_Flat>
+<PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+<StoragePriorityImportant>important</StoragePriorityImportant>
+<ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+<Kelvin>Kelvin</Kelvin>
+<MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
+<EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+<EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>

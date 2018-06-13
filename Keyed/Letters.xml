@@ -28,9 +28,9 @@
   <BirthdayBiologicalAgeInjuries>{0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
   
   <NewDisease>{0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {0} gets proper treatment and spends as much time in bed as possible.</NewDisease>
-  <NewPartDisease>{0} has developed an infection in HIS {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {0} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
+  <NewPartDisease>{0} has developed an infection in [PAWN_possessive] {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {0} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
 
-  <AncientShrineWarning>As {0} draws near the ancient structure, a sense of foreboding overcomes HIM. HECAP isn't sure why, but HE feels that this dusty structure may contain great danger.</AncientShrineWarning>
+  <AncientShrineWarning>As {0} draws near the ancient structure, a sense of foreboding overcomes [PAWN_objective]. [PAWN_pronoun] isn't sure why, but [PAWN_pronoun] feels that this dusty structure may contain great danger.</AncientShrineWarning>
 
   <StruckMineable>We have struck {0}!</StruckMineable>
   

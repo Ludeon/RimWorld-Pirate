@@ -1,0 +1,52 @@
+
+<Graph>Graph</Graph>
+<SelectGraph>Select graph</SelectGraph>
+<ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
+<ApparelForcedLower>forced</ApparelForcedLower>
+<ClearForcedApparel>Clear forced</ClearForcedApparel>
+<HostileTo>Enemy of {0}</HostileTo>
+<CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+<IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+<ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
+<ColonistsKilled>Colonists killed</ColonistsKilled>
+<Day>Day</Day>
+<ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
+<ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
+<CannotDoThisWork>{0} cannot do this kind of work.</CannotDoThisWork>
+<External>External</External>
+<ProjectTechLevel>project tech level</ProjectTechLevel>
+<YourTechLevel>your tech level</YourTechLevel>
+<NoneBrackets>(none)</NoneBrackets>
+<NumEnemyRaids>Enemy raids</NumEnemyRaids>
+<AssignTabEdit>Edit...</AssignTabEdit>
+<AllowedArea>Allowed area</AllowedArea>
+<HigherPriority>higher priority</HigherPriority>
+<Rival>Rival</Rival>
+<Paste>Paste</Paste>
+<ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+<ManageOutfits>Manage outfits</ManageOutfits>
+<EmergencyWorkMarker>E</EmergencyWorkMarker>
+<ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
+<Last100Days>Last 100 days</Last100Days>
+<RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
+<ColonistsLaunched>Colonists launched into space</ColonistsLaunched>
+<ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
+<ForcedApparel>Forced apparel</ForcedApparel>
+<Friend>Friend</Friend>
+<Value>Value</Value>
+<Copy>Copy</Copy>
+<NumThreatBigs>Major threats</NumThreatBigs>
+<DefeatedLower>defeated</DefeatedLower>
+<Statistics>Statistics</Statistics>
+<Last30Days>Last 30 days</Last30Days>
+<AllDays>All</AllDays>
+<ManualPriorities>Manual priorities</ManualPriorities>
+<Acquaintance>Acquaintance</Acquaintance>
+<Storyteller>Storyteller</Storyteller>
+<Hostile>Hostile</Hostile>
+<ClickToJumpTo>Click to jump to:</ClickToJumpTo>
+<Playtime>Play time</Playtime>
+<LowerPriority>lower priority</LowerPriority>
+<Last300Days>Last 300 days</Last300Days>
+<Master>Master</Master>
+<PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>

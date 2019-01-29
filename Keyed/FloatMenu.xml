@@ -104,3 +104,64 @@
   <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
   
 </LanguageData>
+<DropAtEdge>Drop at edge</DropAtEdge>
+<CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
+<EnterMap>Enter {0}</EnterMap>
+<CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
+<VisitSite>Visit {0}</VisitSite>
+<CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+<AttackSettlement>Attack {0}</AttackSettlement>
+<NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+<PickUpAll>Pick up {0} (all)</PickUpAll>
+<NoUsableFood>no usable food</NoUsableFood>
+<IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+<MissingSkill>skill too low</MissingSkill>
+<ForceWear>Force wear {0}</ForceWear>
+<RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
+<AttackSite>Attack {0}</AttackSite>
+<CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
+<CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
+<TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+<VisitSettlement>Visit {0}</VisitSettlement>
+<CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
+<TryToArrest>Try to arrest {0}</TryToArrest>
+<NoFuelToRefuel>need {0}</NoFuelToRefuel>
+<CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
+<IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
+<DropInCenter>Drop in center</DropInCenter>
+<NoWort>need wort</NoWort>
+<CannotUseReason>Cannot use ({0})</CannotUseReason>
+<CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+<LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
+<NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
+<LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+<NoFood>no food</NoFood>
+<TooHeavy>Too heavy</TooHeavy>
+<GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
+<Incapable>incapable</Incapable>
+<GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
+<CannotTrade>Cannot trade</CannotTrade>
+<TradeWith>Trade with {0}</TradeWith>
+<ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
+<AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
+<ReservedForPrisoners>reserved for prisoners</ReservedForPrisoners>
+<NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
+<CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+<NotInHomeArea>not in home area</NotInHomeArea>
+<NoAnimalBed>No reachable, un-reserved animal bed in safe temperature.</NoAnimalBed>
+<GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+<NoComponentsToRepair>need components</NoComponentsToRepair>
+<AddWaypoint>Add a new waypoint here</AddWaypoint>
+<CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+<IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
+<CannotPickUp>Cannot pick up {0}</CannotPickUp>
+<PickUpSome>Pick up {0}...</PickUpSome>
+<SelfTendDisabled>self-tend disabled</SelfTendDisabled>
+<IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+<PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+<PickUp>Pick up {0}</PickUp>
+<CarryToExit>Carry {0} and leave the area</CarryToExit>
+<GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
+<MinSkill>min skill</MinSkill>
+<AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
+<VomitingLower>vomiting</VomitingLower>

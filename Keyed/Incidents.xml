@@ -84,3 +84,69 @@
 
 
 </LanguageData>
+<LetterLabelGroupVisitorsArrive>Visitors</LetterLabelGroupVisitorsArrive>
+<ItemStashSitePart_Manhunters>{0} says that there is a group of manhunting animals wandering nearby.</ItemStashSitePart_Manhunters>
+<LetterLabelTraderCaravanArrival>{1} from {0}</LetterLabelTraderCaravanArrival>
+<RefugeeChasedRejected>{0} screams in panic through the tinny speaker before you cut off the transmission.</RefugeeChasedRejected>
+<RansomDemand>{1} contacts you on radio. They are holding former colonist {0} for ransom.\n\nThey're willing to release HIM back to you in exchange for {2} silver.</RansomDemand>
+<LetterLabelPsychicDroneLevelIncreased>Drone intensifies</LetterLabelPsychicDroneLevelIncreased>
+<GroupVisitorsArriveTraderInfo>\n\nThey seem to have a few items to trade.</GroupVisitorsArriveTraderInfo>
+<LetterAnimalSelfTameAndName>{0} has become tame. Colonists have decided to name it {1}.</LetterAnimalSelfTameAndName>
+<LetterLabelRefugeePodCrash>Escape pod</LetterLabelRefugeePodCrash>
+<LetterLabelFarmAnimalsWanderIn>{0}s join</LetterLabelFarmAnimalsWanderIn>
+<LetterLabelAnimalInsanitySingle>Mad animal</LetterLabelAnimalInsanitySingle>
+<LetterAnimalSelfTameAndNameNumerical>{0} has become tame. It is now designated {1}.</LetterAnimalSelfTameAndNameNumerical>
+<JourneyOffer>A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nIf you travel to the ship, Charlon will take you off this rim world, to the stars.</JourneyOffer>
+<CaravanMeetingTitle>Caravan meeting by {0}</CaravanMeetingTitle>
+<LetterLabelAnimalInsanityMultiple>Mad animals!</LetterLabelAnimalInsanityMultiple>
+<RansomDemand_Reject>Reject</RansomDemand_Reject>
+<RefugeeChasedInitial>A {1} named {0} calls you from nearby. HECAP is being chased by {2} from {3}!\n\nHECAP begs for safety and offers to join your colony. Biologically, HE is {4} years old.\n\nBe warned - if you accept, you'll have to fight off the {2} on HIS tail.</RefugeeChasedInitial>
+<ItemStashQuestTitle>Item stash opportunity</ItemStashQuestTitle>
+<FriendlyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</FriendlyRaidLeaderPresent>
+<RansomDemand_Accept>Accept</RansomDemand_Accept>
+<SingleVisitorArrivesTraderInfo>\n\nHECAP seems to have a few items to trade.</SingleVisitorArrivesTraderInfo>
+<CaravanDemand_Give>Give and pass</CaravanDemand_Give>
+<LetterLabelMiracleHeal>Miracle</LetterLabelMiracleHeal>
+<CaravanDemand>Your caravan has been ambushed by a group of {1} {3} from {0}. They will attack unless you give them:\n\n{2}</CaravanDemand>
+<LetterLabelManhunterPackArrived>Manhunter pack</LetterLabelManhunterPackArrived>
+<LetterCaravanRequest>A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1}\n\nIn return, they offer:\n\n  {2}\n\nThis request expires after: {3}\n\nIf you want to make the trade, send a caravan with the requested supplies. You can review this offer by selecting {0} on the world map.</LetterCaravanRequest>
+<LetterLabelBeaversArrived>Beavers!</LetterLabelBeaversArrived>
+<LetterLabelBuildingBrokenDown>Breakdown: {0}</LetterLabelBuildingBrokenDown>
+<ManhunterPackArrived>A pack of man-hunting {0}s have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey can't pass doors, so if you stay behind walls you should be safe. They won't attack inactive turrets, so turn your turrets off if you want to save them.\n\nThey'll leave the area in a few days.</ManhunterPackArrived>
+<LetterIncidentPsychicSoothe>Every colonist of the {0} gender smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some people's mood will be quite a bit better.</LetterIncidentPsychicSoothe>
+<ItemStashQuest_Reject>Reject</ItemStashQuest_Reject>
+<LetterLabelPsychicSoothe>Psychic soothe</LetterLabelPsychicSoothe>
+<LetterLabelSingleVisitorArrives>Visitor</LetterLabelSingleVisitorArrives>
+<RefugeeChasedInitial_Accept>Offer safety</RefugeeChasedInitial_Accept>
+<LetterLabelCaravanRequest>Caravan request</LetterLabelCaravanRequest>
+<EnemyRaidLeaderPresent>One of the {0} - {1}, is the leader of the faction.</EnemyRaidLeaderPresent>
+<ItemStashQuest_Accept>Accept</ItemStashQuest_Accept>
+<LetterLabelCargoPodCrash>Cargo pods</LetterLabelCargoPodCrash>
+<CaravanMeeting_MoveOn>Move on</CaravanMeeting_MoveOn>
+<RefugeeChasedTitle>Refugee chased at {0}</RefugeeChasedTitle>
+<LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
+<CaravanMeeting_Attack>Attack</CaravanMeeting_Attack>
+<LetterFarmAnimalsWanderIn>A group of {0}s, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony.</LetterFarmAnimalsWanderIn>
+<ItemStashQuestFeeDemand>{0} is willing to tell us the location of the stash in exchange for {1} silver.</ItemStashQuestFeeDemand>
+<RefugeeChasedInitial_Reject>Ignore the message</RefugeeChasedInitial_Reject>
+<CaravanDemandTitle>Caravan demand by {0}</CaravanDemandTitle>
+<ItemStashSitePart_Nothing>{0} says that the stash is unguarded.</ItemStashSitePart_Nothing>
+<LetterTraderCaravanArrival>A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction!</LetterTraderCaravanArrival>
+<ItemStashSitePart_Unknown>Unfortunately, {0} has no idea who or what - if anything - might be guarding the stash.</ItemStashSitePart_Unknown>
+<LetterBuildingBrokenDown>One of your machines ({0}) has broken down. It won't work until a colonist with the Construction work type goes and fixes it.</LetterBuildingBrokenDown>
+<LetterLabelThrumboPasses>Rare thrumbos</LetterLabelThrumboPasses>
+<CaravanRequestInfo>Requesting: {0}, Reward: {1} ({2} left)</CaravanRequestInfo>
+<LetterLabelPsychicDrone>Psychic drone</LetterLabelPsychicDrone>
+<LetterLabelCropBlight>Blight</LetterLabelCropBlight>
+<CaravanMeeting>Your caravan has met peacefully with a caravan from {0}. The other caravan is composed of:\n\n{1}</CaravanMeeting>
+<LetterAnimalSelfTame>{0} has become tame.</LetterAnimalSelfTame>
+<ItemStashSitePart_Turrets>{0} says that the stash is surrounded by enemy turrets.</ItemStashSitePart_Turrets>
+<ItemStashSitePart_Outpost>{0} says that there is an enemy outpost nearby.</ItemStashSitePart_Outpost>
+<CaravanMeeting_Trade>Trade</CaravanMeeting_Trade>
+<SingleVisitorArrivesLeaderInfo>\n\nHECAP is the leader of the faction.</SingleVisitorArrivesLeaderInfo>
+<RansomDemandTitle>Ransom demand at {0}</RansomDemandTitle>
+<CaravanDemand_Fight>Refuse and fight</CaravanDemand_Fight>
+<LetterThrumboPasses>A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days.</LetterThrumboPasses>
+<LetterLabelWandererJoin>Wanderer joins</LetterLabelWandererJoin>
+<LetterLabelAnimalSelfTame>{0} self-tamed</LetterLabelAnimalSelfTame>
+<GroupVisitorsArriveLeaderInfo>\n\nOne of the visitors - {0}, is the leader of the faction.</GroupVisitorsArriveLeaderInfo>

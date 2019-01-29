@@ -22,3 +22,21 @@
   
   
 </LanguageData>
+<StatsReport_MeleeHitChance>Melee hit chance</StatsReport_MeleeHitChance>
+<StatsReport_BodySize>Multiplier for body size {0}</StatsReport_BodySize>
+<AverageOfAllAttacks>average of all attacks</AverageOfAllAttacks>
+<HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
+<StatsReport_Cooldown>Cooldown</StatsReport_Cooldown>
+<StatsReport_ScenarioFactor>Scenario</StatsReport_ScenarioFactor>
+<StatsReport_MeleeDPSExplanation>DPS = Melee damage * Melee hit chance / Cooldown in seconds</StatsReport_MeleeDPSExplanation>
+<StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
+<StatsReport_DifficultyMultiplier>Multiplier for difficulty {0}</StatsReport_DifficultyMultiplier>
+<StatsReport_RelevantHediffs>Relevant health conditions</StatsReport_RelevantHediffs>
+<StatsReport_LifeExpectancy>Life expectancy</StatsReport_LifeExpectancy>
+<StatsReport_Facilities>Facilities</StatsReport_Facilities>
+<StatsReport_MeleeDamage>Melee damage</StatsReport_MeleeDamage>
+<StatsReport_LifeStage>Life stage</StatsReport_LifeStage>
+<StatsReport_WornByCorpse>Multiplier for worn by corpse</StatsReport_WornByCorpse>
+<StatsReport_GearAndInventoryMass>Gear and inventory</StatsReport_GearAndInventoryMass>
+<StatsReport_MissingBodyParts>Multiplier for missing body parts</StatsReport_MissingBodyParts>
+<StatsReport_IngredientsMass>Ingredients</StatsReport_IngredientsMass>

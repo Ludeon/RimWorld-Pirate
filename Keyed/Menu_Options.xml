@@ -42,3 +42,19 @@
   <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
   
 </LanguageData>
+<ModSettings>Mod Settings</ModSettings>
+<Antialiasing>Anti-aliasing</Antialiasing>
+<AddName>Add name</AddName>
+<TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
+<ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+<UIScale>UI scale</UIScale>
+<MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+<ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
+<PlantWindSway>Plant wind sway</PlantWindSway>
+<PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
+<HatsShownOnlyOnMap>Hats shown only on game map</HatsShownOnlyOnMap>
+<NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+<SelectMod>Select mod...</SelectMod>
+<MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
+<TemperatureMode>Temperature mode</TemperatureMode>
+<MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>

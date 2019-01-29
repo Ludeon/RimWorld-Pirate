@@ -56,3 +56,23 @@
   
   
 </LanguageData>
+<damage>damage</damage>
+<context>context</context>
+<repeat>repeat</repeat>
+<chance>chance</chance>
+<intervalDays>interval (days)</intervalDays>
+<default>default</default>
+<SomeonesRoom>{0}'s {1}</SomeonesRoom>
+<radius>radius</radius>
+<North>North</North>
+<max>max</max>
+<multiplier>multiplier</multiplier>
+<LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+<CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
+<Yes>Yes</Yes>
+<East>East</East>
+<South>South</South>
+<West>West</West>
+<No>No</No>
+<durationDays>duration (days)</durationDays>
+<min>min</min>

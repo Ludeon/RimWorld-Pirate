@@ -276,3 +276,229 @@
   
 
 </LanguageData>
+<RecipeAdministerJobString>Administering {0}.</RecipeAdministerJobString>
+<VentClosed>Closed</VentClosed>
+<ContainsBeer>Contains {0} / {1} beer.</ContainsBeer>
+<UsingVerb>using {0} on {1}.</UsingVerb>
+<CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
+<CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>
+<NoAreaAllowed>Unrestricted</NoAreaAllowed>
+<FermentationProgress>Progress: {0} ({1} left)</FermentationProgress>
+<SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
+<ActivityIconBurning>Burning</ActivityIconBurning>
+<CompassTip>Shows the north direction. Click to rotate the camera so the north pole is up.</CompassTip>
+<MarriageSpotNotUsable>Not usable: {0}.</MarriageSpotNotUsable>
+<NotEnjoyableOutsideTemperature>uncomfortable temperature</NotEnjoyableOutsideTemperature>
+<LearningHelper>Learning helper</LearningHelper>
+<MarriageSpotInPrisonCell>in prison cell</MarriageSpotInPrisonCell>
+<MarriageSpotUnreachable>unreachable for {0}</MarriageSpotUnreachable>
+<OnlyQuality>{0} only</OnlyQuality>
+<WorkPriorityShiftClickTip>Shift + click: Increase priority\nShift + right click: Decrease priority</WorkPriorityShiftClickTip>
+<JoyTolerances>Joy tolerances</JoyTolerances>
+<CaravanVisiting>Visiting {0}.</CaravanVisiting>
+<EggProgress>Egg progress</EggProgress>
+<DeterioratingDueToLackOfMaintenance>Deteriorating due to lack of maintenance.</DeterioratingDueToLackOfMaintenance>
+<MarriageSpotForbidden>forbidden for {0}</MarriageSpotForbidden>
+<MarkLearned>Mark as learned</MarkLearned>
+<CaravanResting>Resting.</CaravanResting>
+<TextMote_TreatFailed>Treatment failed\n{0} chance</TextMote_TreatFailed>
+<FertShort>fert.</FertShort>
+<DiseaseGrowthModeChanged_Stable>{0}'s {1} is now stable.</DiseaseGrowthModeChanged_Stable>
+<GameOverPlanetkillerImpact>At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive.</GameOverPlanetkillerImpact>
+<WatchingSunset>watching the sunset</WatchingSunset>
+<KnownSiteThreat>Threat: {0}.</KnownSiteThreat>
+<ReportCowering>cowering.</ReportCowering>
+<TrapRearmingCost>Rearming cost: {0}</TrapRearmingCost>
+<BrokenDown>Broken down</BrokenDown>
+<Unconscious>Unconscious</Unconscious>
+<ShowEnvironmentToggleButton>Toggle the environment display.\n\nDisplays the beauty and room stats of the environment as would be perceived by a character standing where the mouse is pointing.</ShowEnvironmentToggleButton>
+<WorkPriorityShiftClickEnableDisableTip>Shift + click: Enable all\nShift + right click: Disable all</WorkPriorityShiftClickEnableDisableTip>
+<MentalBreakThresholdMinor>Minor break threshold</MentalBreakThresholdMinor>
+<MarriageSpotNotStandable>blocked</MarriageSpotNotStandable>
+<TextMote_ProductWasted>Product\nwasted</TextMote_ProductWasted>
+<NotAllFuelingPortSourcesInGroupHaveAnyFuel>no fuel</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+<BeautyHere>Beauty here</BeautyHere>
+<WillGetWorkSpeedPenalty>{0} will have work speed penalty</WillGetWorkSpeedPenalty>
+<ContainsWort>Contains {0} / {1} wort.</ContainsWort>
+<CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
+<ReportStanding>standing.</ReportStanding>
+<Fertilized>Fertilized</Fertilized>
+<BondBrackets>(bond)</BondBrackets>
+<GameOverArrivedAtJourneyDestination>As you get on board the ship you are greeted by the crew with open arms. They seem to be glad they could take at least one more person with them.\n\nThese colonists escaped:\n\n{0}\nThese colonists were left behind:\n\n{1}\nThe AI will now try to guide the ship to a safe place. It might find a prosperous planet for you in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nAs you enter the cryptosleep pod you hesitate for a moment and feel slightly uncertain about whether you can trust these people.\n\nYou'll find out when you wake up.</GameOverArrivedAtJourneyDestination>
+<Freezing>Freezing</Freezing>
+<OutfitAnything>Anything</OutfitAnything>
+<MarriageSpotUsable>Usable now.</MarriageSpotUsable>
+<RoutePlannerPressEscapeToExit>ESC: Exit planning mode.</RoutePlannerPressEscapeToExit>
+<Enemies>enemies</Enemies>
+<NoRoof>No roof</NoRoof>
+<SettlementTrader>{0} of {1}</SettlementTrader>
+<AreaLower>area</AreaLower>
+<ActivityIconSleeping>Sleeping</ActivityIconSleeping>
+<LockNorthUpToggleButton>Lock the rotation of the camera so the north pole is always up.</LockNorthUpToggleButton>
+<IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
+<NotAllInGroupConnectedToFuelingPort>no fueling port</NotAllInGroupConnectedToFuelingPort>
+<AreaDefaultLabel>Area {0}</AreaDefaultLabel>
+<ShowColonistBarToggleButton>Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.</ShowColonistBarToggleButton>
+<RadiusExpandsIn>radius expands in</RadiusExpandsIn>
+<MarriageSpotReserved>reserved</MarriageSpotReserved>
+<Rename>Rename</Rename>
+<ProsthophobeUnhappy>prosthophobe will be unhappy</ProsthophobeUnhappy>
+<PlantResting>Resting</PlantResting>
+<CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
+<RoomSurgerySuccessChanceFactor>Room surgery success chance factor</RoomSurgerySuccessChanceFactor>
+<AnyQuality>any quality</AnyQuality>
+<DiseaseGrowthModeChanged_Growing>{0}'s {1} is now growing.</DiseaseGrowthModeChanged_Growing>
+<InactiveFacility>inactive</InactiveFacility>
+<CaravanEntering>Entering {0}.</CaravanEntering>
+<ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
+<AllowedAreaShiftClickTip>Shift + click: Set all to home\nShift + right click: Set all to unrestricted</AllowedAreaShiftClickTip>
+<OutfitNudist>Nudist</OutfitNudist>
+<LongRangeMineralScannerEfficiency>Efficiency: {0}</LongRangeMineralScannerEfficiency>
+<GrowthRate>Growth rate</GrowthRate>
+<MustPlaceVentWithFreeSpaces>Both the sides must be exposed for air to pass through.</MustPlaceVentWithFreeSpaces>
+<EstimatedTimeToThisWaypointFromPrevious>Est. time between this and the previous waypoint: {0}</EstimatedTimeToThisWaypointFromPrevious>
+<ShowLearningHelperWhenEmptyToggleButton>Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active.</ShowLearningHelperWhenEmptyToggleButton>
+<TeetotalerUnhappy>teetotaler will be unhappy</TeetotalerUnhappy>
+<CloudWatching>cloudwatching</CloudWatching>
+<KnownSiteThreats>Threats: {0}.</KnownSiteThreats>
+<ForceExitAndRemoveMapCountdown>{0} until leaving</ForceExitAndRemoveMapCountdown>
+<TextMote_RecruitFail>Recruit failed!\n{0} chance</TextMote_RecruitFail>
+<WasWornByCorpse>Was worn by a corpse.</WasWornByCorpse>
+<TrapArmed>Armed</TrapArmed>
+<PainShockShort>Pain shock</PainShockShort>
+<CheckboxShiftClickTip>Shift + click: Check all\nShift + right click: Uncheck all</CheckboxShiftClickTip>
+<EstimatedTimeToThisWaypoint>Est. time to this waypoint: {0}</EstimatedTimeToThisWaypoint>
+<Temperature>Temperature</Temperature>
+<Home>Home</Home>
+<DiseaseGrowthModeChanged_Remission>{0}'s {1} is now in remission.</DiseaseGrowthModeChanged_Remission>
+<CaravanEstimatedTimeToDestination>Est. time to destination: {0} days</CaravanEstimatedTimeToDestination>
+<Dead>Dead</Dead>
+<ItemStashContents>Contents: {0}.</ItemStashContents>
+<MentalBreakThresholdMajor>Major break threshold</MentalBreakThresholdMajor>
+<NeedsTendingNow>Needs tending now</NeedsTendingNow>
+<TransportPodDestinationBeyondMaximumRange>Beyond maximum range</TransportPodDestinationBeyondMaximumRange>
+<TextMote_HarvestFailed>Harvest\nfailed</TextMote_HarvestFailed>
+<AutoHomeAreaToggleButton>Toggle automatically expanding the home area around new constructions.</AutoHomeAreaToggleButton>
+<TimeLeft>time left</TimeLeft>
+<BuildRoof>Build roof</BuildRoof>
+<MentalBreakThresholdExtreme>Extreme break threshold</MentalBreakThresholdExtreme>
+<RoomInfectionChanceFactor>Room tend infection chance factor</RoomInfectionChanceFactor>
+<ReadyForLaunch>Ready for launch.</ReadyForLaunch>
+<InvertArea>Invert</InvertArea>
+<NoPower>No power</NoPower>
+<AllowAll>Allow all</AllowAll>
+<DisabledCommand>DISABLED</DisabledCommand>
+<Stargazing>stargazing</Stargazing>
+<RuinedByTemperature>Ruined by temperature.</RuinedByTemperature>
+<RecipeAdminister>administer {0}</RecipeAdminister>
+<CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
+<TextMote_TrainSuccess>Trained: {0}\n{1} chance</TextMote_TrainSuccess>
+<RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Return to the caravan formation dialog.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+<WornByCorpseChar>D</WornByCorpseChar>
+<TextMote_TrainFail>Failed training: {0}\n{1} chance</TextMote_TrainFail>
+<Filter>Filter</Filter>
+<SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
+<RoutePlannerEstTimeToFinalDest>Total route time: {0}</RoutePlannerEstTimeToFinalDest>
+<Map>Map</Map>
+<CaravanOutOfFood>Out of food.</CaravanOutOfFood>
+<NewArea>New area</NewArea>
+<RoutePlannerButtonTip>Click to enter the planning mode where you can plan your journey and calculate distance between waypoints.</RoutePlannerButtonTip>
+<RoutePlannerAddTwoOrMoreWaypoints>Add two or more waypoints.</RoutePlannerAddTwoOrMoreWaypoints>
+<Permanent>permanent</Permanent>
+<CurrentTileMovementTime>Current tile movement time</CurrentTileMovementTime>
+<ForceExitAndRemoveMapCountdownTip>Your colonists will automatically reform a caravan and leave this area after {0}.</ForceExitAndRemoveMapCountdownTip>
+<LordReportFormingCaravan>Forming caravan</LordReportFormingCaravan>
+<RoutePlannerUsingTicksPerMoveOfCaravan>Calculating for: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+<CurrentRadius>current radius</CurrentRadius>
+<LordReportAttendingParty>Attending party</LordReportAttendingParty>
+<TrapNotArmed>Not armed</TrapNotArmed>
+<Fuel>Fuel</Fuel>
+<QuestTargetDestroyInspectString>{0} wants this destroyed.\n    Reward: {1}.</QuestTargetDestroyInspectString>
+<RoutePlannerAddOneOrMoreWaypoints>Add one or more waypoints.</RoutePlannerAddOneOrMoreWaypoints>
+<WornBy>worn by {0}</WornBy>
+<ShowRoofOverlayToggleButton>Toggle visibility of roofs.</ShowRoofOverlayToggleButton>
+<FermentationBarrelOutOfIdealTemperature>Non-ideal temperature. Fermentation speed: {0}</FermentationBarrelOutOfIdealTemperature>
+<CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
+<BadTemperature>bad temperature</BadTemperature>
+<AssignedColonist>Assigned colonist</AssignedColonist>
+<HitPoints>{0} hit points</HitPoints>
+<ExpandingIconsToggleButton>Toggle displaying expanding icons instead of the regular icons for distant objects.</ExpandingIconsToggleButton>
+<TextMote_TameFail>Tame failed\n{0} chance</TextMote_TameFail>
+<HostilityResponseCurrentMode>Current mode</HostilityResponseCurrentMode>
+<MilkFullness>Milk fullness</MilkFullness>
+<TimePassed>time passed</TimePassed>
+<NextTendIn>Will need tending in {0}</NextTendIn>
+<WatchingSunrise>watching the sunrise</WatchingSunrise>
+<ActivityIconMedicalRest>Medical rest</ActivityIconMedicalRest>
+<PawnMainDescFactionedWrap>{0} of {1}</PawnMainDescFactionedWrap>
+<NewAreaAnimal>New animal area</NewAreaAnimal>
+<TextMote_Tended>{0} tended</TextMote_Tended>
+<Fermented>Fermented</Fermented>
+<RoutePlannerUsingAverageTicksPerMoveWarning>Planning mode uses the default caravan speed. Your speed may vary.</RoutePlannerUsingAverageTicksPerMoveWarning>
+<MarriageSpotDangerous>too dangerous for {0}</MarriageSpotDangerous>
+<ReportExtinguishingFire>extinguishing fire.</ReportExtinguishingFire>
+<HiveReproducesIn>Reproduces in</HiveReproducesIn>
+<AlreadyLearned>Already learned</AlreadyLearned>
+<WorkSpeedPenalty>Work speed penalty</WorkSpeedPenalty>
+<ReportExtinguishingFireOn>extinguishing fire on {0}.</ReportExtinguishingFireOn>
+<Mood_MentalState>mental state</Mood_MentalState>
+<DrugEffectMultiplier>{0} effect multiplier: {1}</DrugEffectMultiplier>
+<AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
+<SetPodLauncherTargetFuelLevel>Set target fuel level to {0}\nMax distance: {1} tiles</SetPodLauncherTargetFuelLevel>
+<Overheating>Overheating</Overheating>
+<OutfitWorker>Worker</OutfitWorker>
+<HostilityReponseTip>Change how to react to nearby enemies when the colonist is not drafted.</HostilityReponseTip>
+<TextMote_ConstructionFail>Construction\nfailed</TextMote_ConstructionFail>
+<CaravanWaiting>Waiting.</CaravanWaiting>
+<ShowAnimalNamesToggleButton>Toggle displaying animal names for tame named animals.</ShowAnimalNamesToggleButton>
+<ActivityIconFleeing>Fleeing</ActivityIconFleeing>
+<AreaAnimalDefaultLabel>Animal area {0}</AreaAnimalDefaultLabel>
+<Room>Room</Room>
+<HitPointsBasic>hit points</HitPointsBasic>
+<TextMote_TameSuccess>Tamed!\n{0} chance</TextMote_TameSuccess>
+<OutfitSoldier>Soldier</OutfitSoldier>
+<ConfiguredTargetFuelLevel>Target fuel level: {0}</ConfiguredTargetFuelLevel>
+<CaravanTraveling>Traveling.</CaravanTraveling>
+<AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
+<TextMote_FixBrokenDownBuildingFail>Repair\nfailed</TextMote_FixBrokenDownBuildingFail>
+<MustPlaceAdjacentStandable>Must be placed with standable space on all sides.</MustPlaceAdjacentStandable>
+<NotReadyForLaunch>Not ready for launch</NotReadyForLaunch>
+<Execution>Execution</Execution>
+<MustPlaceNearFuelingPort>Must be placed next to a pod launcher's fueling port.</MustPlaceNearFuelingPort>
+<TextMote_YieldWasted>Yield\nwasted</TextMote_YieldWasted>
+<WatchingEclipse>watching the eclipse</WatchingEclipse>
+<ImpactDate>impact date</ImpactDate>
+<TextMote_TreatSuccess>Treatment success!\n{0} chance</TextMote_TreatSuccess>
+<TransportPodNotEnoughFuel>Not enough fuel</TransportPodNotEnoughFuel>
+<IsIncapableOfViolenceShort>incapable of violence</IsIncapableOfViolenceShort>
+<PlantNeedsLightLevel>Needs light level</PlantNeedsLightLevel>
+<Immunity>Immunity</Immunity>
+<CannotGrowBadSeasonTemperature>Cannot grow (bad seasonal temperature).</CannotGrowBadSeasonTemperature>
+<PainShock>In shock due to pain</PainShock>
+<KnownSiteThreatsNone>Threats: none.</KnownSiteThreatsNone>
+<ActivityIconAttacking>Fighting</ActivityIconAttacking>
+<ProgressToNextLump>Progress to next lump</ProgressToNextLump>
+<DeterioratingDueToBeingUnroofed>Deteriorating due to being unroofed.</DeterioratingDueToBeingUnroofed>
+<LifespanExpiry>Expires in:</LifespanExpiry>
+<DueForMaintenance>Due for maintenance.</DueForMaintenance>
+<SnowClear>Snow clear</SnowClear>
+<UsePlanetDayNightSystemToggleButton>Toggle day/night lighting system.</UsePlanetDayNightSystemToggleButton>
+<EquippedBy>equipped by {0}</EquippedBy>
+<RoutePlannerPressRMBToAddAndRemoveWaypoints>Right mouse button: Add/remove waypoints.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+<ClickToSortByThisColumn>Click to sort by this column.</ClickToSortByThisColumn>
+<AffectedBy>Affected by:</AffectedBy>
+<SomeItemStashContents>Some contents: {0}.</SomeItemStashContents>
+<Owners>Owners</Owners>
+<PawnMainDescLifestageWrap>{1} {0}</PawnMainDescLifestageWrap>
+<FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
+<LordReportAttendingMarriageCeremony>Attending marriage ceremony</LordReportAttendingMarriageCeremony>
+<WoolGrowth>Wool growth</WoolGrowth>
+<CaravanAttacking>Attacking {0}.</CaravanAttacking>
+<CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
+<TextMote_Dodge>Dodge</TextMote_Dodge>
+<TransportPodInGroupHasSomethingLeftToLoad>loading in progress</TransportPodInGroupHasSomethingLeftToLoad>
+<ResourceBelow>Resource below</ResourceBelow>
+<ActivityIconIdle>Idle</ActivityIconIdle>
+<LessThanADay>less than a day</LessThanADay>
+<WorldObjectTimeout>Time left: {0}</WorldObjectTimeout>
+<GameConditionsTip>Special conditions affecting the area right now.</GameConditionsTip>

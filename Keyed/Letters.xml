@@ -35,3 +35,82 @@
   <StruckMineable>We have struck {0}!</StruckMineable>
   
 </LanguageData>
+<LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
+<LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
+<LetterLabelPawnsLostDueToMapCountdown>Left behind</LetterLabelPawnsLostDueToMapCountdown>
+<LetterLabelRelationsChangeGood>Good will</LetterLabelRelationsChangeGood>
+<LetterLabelFormedCaravan>Caravan ready</LetterLabelFormedCaravan>
+<LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
+<LetterHealthComplicationsLabel>{0}: {1}</LetterHealthComplicationsLabel>
+<LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
+<LetterLabelNewDisease>Disease</LetterLabelNewDisease>
+<AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
+<LetterRelatedPawnsNeutralGroup>There are people who have relationships with your colonists or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
+<LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
+<LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
+<LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+<LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
+<LetterHediffFromRandomHediffGiverLabel>{0}: {1}</LetterHediffFromRandomHediffGiverLabel>
+<LetterRejectedProposal>{1} has rejected {0}'s marriage proposal. {0} is going to be unhappy about this.</LetterRejectedProposal>
+<LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\nHECAP now has a need for {1}, visible on HIS Needs tab. HECAP will automatically consume the drug to fulfil HIS need. If HE cannot get any {1}, HE will go into withdrawal.</LetterNewlyAddicted>
+<LetterLabelBreakup>Breakup</LetterLabelBreakup>
+<FinalStraw>The final straw was: {0}.</FinalStraw>
+<LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
+<LetterNewParty>{0} is throwing a party! Everyone who goes will gain joy and social energy, and a lasting positive mood boost.</LetterNewParty>
+<LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
+<MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
+<LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
+<LetterNoLongerLovers>{0} and {1} are no longer in a relationship.</LetterNoLongerLovers>
+<LetterCaravanEnteredEnemyBaseBecameHostile>{0} has arrived at {1} and is ready to begin the attack.\n\nBecause of your hostile approach, {2} is now hostile to you.</LetterCaravanEnteredEnemyBaseBecameHostile>
+<LetterLabelBirthday>Birthday</LetterLabelBirthday>
+<LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithSettlement>
+<LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
+<LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
+<PostponeLetter>Postpone</PostponeLetter>
+<LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
+<LetterHealthComplications>{0} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2}</LetterHealthComplications>
+<RelationshipAppendedLetterTextPrisoner>NAME has a relationship with one of your prisoners. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+<LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
+<LetterFactionBaseDefeated>The enemy outpost {0} has been destroyed.\n\nYou have {1} to collect items before your colonists reform the caravan.</LetterFactionBaseDefeated>
+<LetterLeadersDeathLabel>{1} died: {0}</LetterLeadersDeathLabel>
+<LetterLabelRelationsChangeBad>Bad will</LetterLabelRelationsChangeBad>
+<LetterBondedAnimalDiedMulti>{0} has died. It will affect mood of the following people:\n\n{1}</LetterBondedAnimalDiedMulti>
+<LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of precious resources nearby.\n\nWe don't know who or what - if anything - might be guarding it.</LetterFoundPreciousLump>
+<LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
+<RejectLetter>Reject</RejectLetter>
+<LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
+<LetterLeadersDeath>{0}, {3} of {1}, has died.\n\nThe new {3} is {2}.</LetterLeadersDeath>
+<LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your colonists or prisoners:</LetterRelatedPawnsTradeShip>
+<LetterLabelAreaRevealed>Area revealed</LetterLabelAreaRevealed>
+<LetterNewLovers>{0} and {1} have come together and are now lovers.</LetterNewLovers>
+<LetterFriendlyTrapSprung>{0} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
+<LetterLabelRoofCollapsed>Roof collapse</LetterLabelRoofCollapsed>
+<LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means the faction does not exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+<LetterNamedBondedAnimalDied>{0} named {1}, bonded to {2}, has died. It will affect {2}'s mood.</LetterNamedBondedAnimalDied>
+<LetterAcceptedProposal>{1} has accepted {0}'s marriage proposal.\n\nAt some point in the coming days or seasons, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
+<LetterAllCaravanColonistsDied>All members of your caravan have died.</LetterAllCaravanColonistsDied>
+<RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
+<LetterFormedCaravan>Your caravan has formed and awaits orders on the world map.</LetterFormedCaravan>
+<LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
+<LetterLabelAncientShrineWarning>Ancient danger</LetterLabelAncientShrineWarning>
+<LetterPawnsLostDueToMapCountdown>Some of your animals or prisoners were left behind in the wilderness:\n\n{0}</LetterPawnsLostDueToMapCountdown>
+<LetterLabelAffair>Affair</LetterLabelAffair>
+<LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.</LetterPrisonBreak>
+<LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
+<LetterLabelFactionBaseDefeated>Outpost destroyed</LetterLabelFactionBaseDefeated>
+<RelationshipAppendedLetterTextColonist>NAME has a relationship with a colonist. HECAP is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+<LetterRelatedPawnsRaidFriendly>There are people who have relationships with your colonists or prisoners in the arriving group of friendly {0}:</LetterRelatedPawnsRaidFriendly>
+<LetterBondedAnimalDied>{0}, bonded to {1}, has died. It will affect {1}'s mood.</LetterBondedAnimalDied>
+<LetterFriendlyTrapSprungLabel>{0} hit trap</LetterFriendlyTrapSprungLabel>
+<LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
+<AnimalManhunterFromDamage>A {0} is attacking after being harmed!</AnimalManhunterFromDamage>
+<LetterNamedBondedAnimalDiedMulti>{0} named {1} has died. It will affect mood of the following people:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+<LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
+<AnimalManhunterOthers>Other {0}s nearby have also become enraged!</AnimalManhunterOthers>
+<LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
+<LetterAffair>{0}, married to {1}, has begun an affair with {2}.</LetterAffair>
+<LetterLabelBondedAnimalDied>Bonded animal's death</LetterLabelBondedAnimalDied>
+<LetterRelatedPawnsRaidEnemy>There are people who have relationships with your colonists or prisoners in the arriving group of {0}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
+<LetterLabelNewParty>Party</LetterLabelNewParty>
+<LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+<LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
